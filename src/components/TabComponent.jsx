@@ -1,7 +1,4 @@
 import React, { useState } from 'react';
-// import FirstTab from './FirstTab';
-// import SecondTab from './SecondTab';
-// import ThirdTab from './ThirdTab';
 
 const TabComponent = () => {
   const [activeTab, setActiveTab] = useState(1);
